@@ -1,0 +1,11 @@
+@import '@sweetalert2/theme-dark/dark.css';
+@import './scrollbar.css';
+@import './custom_markdown.css';
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  overflow-wrap: anywhere;
+}

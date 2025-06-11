@@ -1,0 +1,76 @@
+.markdown-renderer {
+  @apply text-gray-400 text-lg;
+}
+
+.markdown-renderer h1 {
+  @apply text-gray-200 text-4xl font-bold my-6;
+}
+
+.markdown-renderer h2 {
+  @apply text-gray-200 text-3xl font-bold my-4 mt-10;
+}
+
+.markdown-renderer h3 {
+  @apply text-gray-200 text-2xl font-bold my-4 mt-10;
+}
+
+.markdown-renderer h4 {
+  @apply text-gray-200 text-xl font-bold my-4 mt-10;
+}
+
+.markdown-renderer h5 {
+  @apply text-gray-200 text-lg font-bold my-4 mt-10;
+}
+
+.markdown-renderer h6 {
+  @apply text-gray-200 text-lg font-bold my-4 mt-10;
+}
+
+.markdown-renderer p {
+  @apply my-4;
+}
+
+.markdown-renderer ul {
+  @apply list-disc list-inside ml-5;
+}
+
+.markdown-renderer ol {
+  @apply list-decimal list-inside ml-5;
+}
+
+.markdown-renderer li {
+  @apply my-1;
+}
+
+.markdown-renderer blockquote {
+  @apply italic border-l-4 pl-4 my-4 text-yellow-400 border-yellow-500;
+}
+
+.markdown-renderer hr {
+  @apply my-4 border-gray-500;
+}
+
+.markdown-renderer pre {
+  @apply bg-gray-800/50 p-4 rounded-lg my-4 overflow-auto text-gray-200;
+}
+
+.markdown-renderer code:not(pre code) {
+  @apply bg-gray-800/50 text-gray-300;
+}
+
+.markdown-renderer a:not(h1 a):not(h2 a):not(h3 a):not(h4 a):not(h5 a):not(h6 a) {
+  @apply underline text-primary-500 hover:text-primary-600;
+}
+
+.markdown-renderer table {
+  @apply w-full border-collapse mb-4 mt-6 text-gray-200;
+}
+
+.markdown-renderer th, 
+.markdown-renderer td {
+  @apply border border-collapse border-gray-700 px-4 py-1.5 text-left;
+}
+
+.markdown-renderer th {
+  @apply bg-gray-800 font-bold;
+}
