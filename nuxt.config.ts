@@ -12,9 +12,7 @@ export default defineNuxtConfig({
     },
   ],
   content: {
-    experimental: {
-      search: true
-    },
+    // experimental features can be added here if needed
     documentDriven: true
   },
 })
