@@ -40,6 +40,13 @@ const links = [
     icon: 'fa-solid fa-check-to-slot',
     external: false,
     blank: false,
+  },  
+  {
+    title: 'Bans',
+    path: 'https://bans.terra-nova.world/',
+    icon: 'fa-ban fa-check-to-slot',
+    external: false,
+    blank: false,
   },
 ];
 
