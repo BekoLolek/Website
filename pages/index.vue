@@ -3,7 +3,7 @@
     <template v-slot:default>
       <h1 class="text-gray-200 text-4xl mb-5 font-semibold">{{ appConfig.serverName }}</h1>
       <p class="text-gray-400 text-lg mb-5">
-        Welcome to our website! Join our new and friendly community. Here, you can explore our vast 1:1000 replica of thr world, create a Nation, and go to war with others ones. This server is NOT P2W as seen by our collection system and our balanced ranks.
+        Welcome to our website! Join our new and friendly community. Here, you can explore our vast 1:1000 replica of the world, create a Nation, and go to war with others ones. This server is NOT P2W as seen by our collection system and our balanced ranks.
       </p>
       
       <PrimaryButton icon="fa-solid fa-gamepad" @click="copyIp">Join now</PrimaryButton>
