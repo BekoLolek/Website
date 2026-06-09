@@ -33,13 +33,6 @@ const links = [
     icon: 'fa-solid fa-user-group',
     external: false,
     blank: false,
-  },
-  {
-    title: 'Vote',
-    path: '/vote',
-    icon: 'fa-solid fa-check-to-slot',
-    external: false,
-    blank: false,
   },  
   {
     title: 'Bans',
