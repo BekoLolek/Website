@@ -6,7 +6,6 @@
 
     <StaffGroup title="Owners">
       <StaffMember name="iq20" rank="Owner" color="#dc2626" />
-      <StaffMember name="Wuz_pugs" rank="Owner" color="#dc2626" />
     </StaffGroup>
 
     <StaffGroup title="Head Management">
