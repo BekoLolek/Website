@@ -44,6 +44,6 @@ const links = [
 ];
 
 const storeTitle = 'Store';
-const storeLink = 'https://store.terra-nova.world/';
+const storeLink = 'https://terra-nova.tebex.io/';
 const storeIcon = 'fa-solid fa-cart-shopping';
 </script>
