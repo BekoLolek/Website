@@ -8,7 +8,7 @@
 const socials = [
   {
     title: 'Instagram',
-    link: '#',
+    link: 'https://www.instagram.com/terranova_official/',
     icon: 'fa-brands fa-instagram',
   },
   {
@@ -18,7 +18,7 @@ const socials = [
   },
   {
     title: 'Tiktok',
-    link: '#',
+    link: 'https://www.tiktok.com/@terra_nova_official',
     icon: 'fa-brands fa-tiktok',
   },
   {
