@@ -11,6 +11,7 @@
     <StaffGroup title="Head Management">
       <StaffMember name="BekoLolek" rank="Developer Manager" color="#ca8a04" />
       <StaffMember name="The_Joker_Jr" rank="Community Manager" color="#ca8a04" />
+      <StaffMember name="BigDiamond123" rank="Staff Manager" color="#ca8a04" />
     </StaffGroup>
 
     <StaffGroup title="Developers">
