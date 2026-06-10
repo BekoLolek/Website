@@ -3,7 +3,7 @@
     <template v-slot:default>
       <h1 class="text-gray-200 text-4xl mb-5 font-semibold">{{ appConfig.serverName }}</h1>
       <p class="text-gray-400 text-lg mb-5">
-        Welcome to our website! Join our new and friendly community. Here, you can explore our vast 1:1000 replica of the world, create a Nation, and go to war with others ones. This server is NOT P2W as seen by our collection system and our balanced ranks.
+        Terra Nova is a 1:500 scale Earth SMP focused around a global progression and economy, structured around player-made geopolitics. Join or create a Town, form or join a Nation, wage or stop Wars, it's fully your decision. No P2W and gambling in the server, followed with a balanced skills, levels and collections systems with talismans, pets and custom items with weekly updates. Whether you're here to build or fight, you've found your place!
       </p>
       
       <PrimaryButton icon="fa-solid fa-gamepad" @click="copyIp">Join now</PrimaryButton>
@@ -17,7 +17,7 @@
         </template>
 
         <template v-slot:bottom>
-          <FeatureCard title="New Community" icon="fa-solid fa-users">Join a new vibrant community, make friends, and debate!</FeatureCard>
+          <FeatureCard title="Growing Community" icon="fa-solid fa-users">Join a vibrant community, make friends, and debate!</FeatureCard>
         </template>
       </FeatureGrid>
     </template>
