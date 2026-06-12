@@ -9,11 +9,12 @@
 <script setup>
 const diamond = { name: 'Diamond', image: '/images/items/diamond.png', count: 16 }
 const eye = { name: 'Ender Eye', image: '/images/items/eye.png', }
+const n = { name: 'n', image: '/images/items/n.png', }
 
 const grid = [
-  diamond, null, diamond,
-  null, eye,    null,
-  diamond, null, diamond,
+  diamond, n, diamond,
+  n, eye,    n,
+  diamond, n, diamond,
 ]
 
 const output = {
