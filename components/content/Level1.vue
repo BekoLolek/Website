@@ -18,7 +18,7 @@ const grid = [
 
 const output = {
   name: 'Your Custom Item',
-  image: '/images/items/your-item.png',
+  image: '/images/items/1.png',
   count: 1,
 }
 </script>
