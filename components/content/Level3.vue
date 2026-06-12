@@ -9,12 +9,12 @@
 <script setup>
 const netherite_ingot = { name: 'Netherite Ingot', image: '/images/items/diamond.png', }
 const eye = { name: 'Ender Eye', image: '/images/items/eye.png', }
-const 2 = { name: '2', image: '/images/items/2.png', }
+const num2 = { name: '2', image: '/images/items/2.png', }
 
 const grid = [
-  netherite_ingot, 2, netherite_ingot,
-  2, eye, 2,
-  netherite_ingot, 2, netherite_ingot,
+  netherite_ingot, num2, netherite_ingot,
+  num2, eye, num2,
+  netherite_ingot, num2, netherite_ingot,
 ]
 
 const output = {
