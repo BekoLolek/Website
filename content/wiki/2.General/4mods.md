@@ -14,18 +14,18 @@ Only Allowed mods, everything else is not allowed
 
 ## Mods
 
-**Visual & Rendering**
+**Visual & Rendering** <br>
 - Sodium
 - Iris shaders
 - Indium
 - Lithium
-**HUD & Inventory**
+**HUD & Inventory** <br>
 - Appleskin
 - Armor Status HUD
 - Mouse Tweaks
-**Quality Of Life**
+**Quality Of Life** <br>
 - Zooming
 - Chat Plus
 - Shulker Box Tooltip
-**Building**
+**Building** <br>
 - Litematica (No EasyPlace)
