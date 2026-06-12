@@ -7,7 +7,7 @@
 </template>
 
 <script setup>
-const netherite_ingot = { name: 'Netherite Ingot', image: '/images/items/diamond.png', }
+const netherite_ingot = { name: 'Netherite Ingot', image: '/images/items/netherite_ingot.png', }
 const eye = { name: 'Ender Eye', image: '/images/items/eye.png', }
 const num2 = { name: '2', image: '/images/items/2.png', }
 
