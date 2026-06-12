@@ -20,11 +20,13 @@ Only Allowed mods, everything else is not allowed
 - Indium <br>
 - Lithium <br>
  <br>
+ 
 **HUD & Inventory** <br>
 - Appleskin <br>
 - Armor Status HUD <br>
 - Mouse Tweaks <br>
  <br>
+ 
 **Quality Of Life** <br>
 - Zooming <br>
 - Chat Plus <br>
