@@ -13,7 +13,7 @@ const 2 = { name: '2', image: '/images/items/2.png', }
 
 const grid = [
   netherite_ingot, 2, netherite_ingot,
-  2, eye,    2,
+  2, eye, 2,
   netherite_ingot, 2, netherite_ingot,
 ]
 
