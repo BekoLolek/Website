@@ -7,7 +7,7 @@
 </template>
 
 <script setup>
-const diamond = { name: 'Diamond', image: '/images/items/diamond.png' }
+const diamond = { name: 'Diamond', image: '/images/items/diamond.png', count: 32 }
 
 const grid = [
   diamond, diamond, diamond,
