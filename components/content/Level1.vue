@@ -13,7 +13,7 @@ const n = { name: 'n', image: '/images/items/n.png', }
 
 const grid = [
   diamond, n, diamond,
-  n, eye,    n,
+  n, eye, n,
   diamond, n, diamond,
 ]
 
