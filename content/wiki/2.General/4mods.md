@@ -31,7 +31,7 @@ Only Allowed mods, everything else is not allowed
 - Zooming <br>
 - Chat Plus <br>
 - Shulker Box Tooltip <br>
-
  <br>
+
 **Building** <br>
 - Litematica (No EasyPlace) <br>
